@@ -1,6 +1,6 @@
 # Car Price Prediction Web App
 
-This web app allows users to predict the price of a car based on various input details. The app uses an advanced tree-based machine learning model trained on a large dataset from AutoScout24. The model takes into account key features of the car, such as brand, model, mileage, year, transmission type, and power, to estimate the car's market price.
+This web app allows users to predict the price of a car based on various input details. The app uses an advanced machine learning model trained on a large dataset from AutoScout24. The model takes into account key features of the car, such as brand, model, mileage, year, transmission type, and power, to estimate the car's market price.
 
 The web app was developed as a final project for the MLOps Zoomcamp.
 
@@ -24,7 +24,7 @@ The web app was developed as a final project for the MLOps Zoomcamp.
 
 ## How it Works
 
-The app uses a machine learning model trained on a large dataset from AutoScout24. The model employs advanced tree-based methods, such as decision trees and random forests, to predict the market value of a car based on input features. It leverages historical data to identify patterns and estimate prices accordingly.
+The app uses a machine learning model trained on a large dataset from AutoScout24. The model employs advanced ML to predict the market value of a car based on input features. It leverages historical data to identify patterns and estimate prices accordingly.
 
 ## Technologies Used
 
