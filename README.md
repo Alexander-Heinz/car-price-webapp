@@ -1,5 +1,10 @@
 # Car Price Prediction Web App
 
+> **⚠️ NOTE:**  
+> The web service / web app is currently **offline**.  
+> I had to **pause the cloud hosting (previously on DigitalOcean)** due to ongoing costs.  
+> I'm actively **looking for a free or lower-cost alternative** to resume hosting in the near future.
+
 This web app allows users to predict the price of a car based on various input details. The app uses an advanced machine learning model trained on a large dataset from AutoScout24. The model takes into account key features of the car, such as brand, model, mileage, year, transmission type, and power, to estimate the car's market price.
 
 The web app was developed as a final project for the MLOps Zoomcamp.
