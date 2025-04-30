@@ -8,6 +8,9 @@
 This web app allows users to predict the price of a car based on various input details. The app uses an advanced machine learning model trained on a large dataset from AutoScout24. The model takes into account key features of the car, such as brand, model, mileage, year, transmission type, and power, to estimate the car's market price.
 
 The web app was developed as a final project for the MLOps Zoomcamp.
+It uses the model developed during the course as a MLOps pipeline: 
+> 👉 [autoscout-price-prediction on GitHub](https://github.com/Alexander-Heinz/autoscout-price-prediction)  
+
 
 ## Features
 
