@@ -10,7 +10,7 @@ This web app allows users to predict the price of a car based on various input d
 The web app was developed as a final project for the MLOps Zoomcamp.
 
 
-**It uses the model developed during the course as a MLOps pipeline:**
+**It uses the model developed in this related Project (Repo):**
 > 👉 [autoscout-price-prediction (MLOps Pipeline) on GitHub](https://github.com/Alexander-Heinz/autoscout-price-prediction)  
 
 
