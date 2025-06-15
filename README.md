@@ -9,9 +9,19 @@
 
 *Fig. 1: Example Prediction*
 
-This web app allows users to predict the price of a car based on various input details. The app uses an advanced tree-based machine learning model trained on a large dataset from AutoScout24. The model takes into account key features of the car, such as brand, model, mileage, year, transmission type, and power, to estimate the car's market price.
+> **⚠️ NOTE:**  
+> The web service / web app is currently **offline**.  
+> I had to **pause the cloud hosting (previously on DigitalOcean)** due to ongoing costs.  
+> I'm actively **looking for a free or lower-cost alternative** to resume hosting in the near future.
+
+This web app allows users to predict the price of a car based on various input details. The app uses an advanced machine learning model trained on a large dataset from AutoScout24. The model takes into account key features of the car, such as brand, model, mileage, year, transmission type, and power, to estimate the car's market price.
 
 The web app was developed as a final project for the MLOps Zoomcamp.
+
+
+**It uses the model developed in this related Project (Repo):**
+> 👉 [autoscout-price-prediction (MLOps Pipeline) on GitHub](https://github.com/Alexander-Heinz/autoscout-price-prediction)  
+
 
 > **⚠️ NOTE:**
 > The web service / web app is currently **offline**.
@@ -36,7 +46,7 @@ The web app was developed as a final project for the MLOps Zoomcamp.
 
 ## How it Works
 
-The app uses a machine learning model trained on a large dataset from AutoScout24. The model employs advanced tree-based methods, such as decision trees and random forests, to predict the market value of a car based on input features. It leverages historical data to identify patterns and estimate prices accordingly.
+The app uses a machine learning model trained on a large dataset from AutoScout24. The model employs advanced ML to predict the market value of a car based on input features. It leverages historical data to identify patterns and estimate prices accordingly.
 
 ## Technologies Used
 
