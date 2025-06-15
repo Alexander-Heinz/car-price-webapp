@@ -1,8 +1,22 @@
 # Car Price Prediction Web App
 
+> **⚠️ NOTE:**
+> The web service / web app is currently **offline**.
+> I had to **pause the cloud hosting (previously on DigitalOcean)** due to ongoing costs.
+> I'm actively **looking for a free or lower-cost alternative** to resume hosting in the near future.
+
+<img src="assets/20250615_221020_example.png" alt="Car Price Prediction Web App" width="25%">
+
+*Fig. 1: Example Prediction*
+
 This web app allows users to predict the price of a car based on various input details. The app uses an advanced tree-based machine learning model trained on a large dataset from AutoScout24. The model takes into account key features of the car, such as brand, model, mileage, year, transmission type, and power, to estimate the car's market price.
 
 The web app was developed as a final project for the MLOps Zoomcamp.
+
+> **⚠️ NOTE:**
+> The web service / web app is currently **offline**.
+> I had to **pause the cloud hosting (previously on DigitalOcean)** due to ongoing costs.
+> I'm actively **looking for a free or lower-cost alternative** to resume hosting in the near future.
 
 ## Features
 
@@ -15,11 +29,9 @@ The web app was developed as a final project for the MLOps Zoomcamp.
 
 ## How to Use
 
-1. **Go to the web app:** Access the app via the following link:  
+1. **Go to the web app:** Access the app via the following link:
    [Car Price Prediction Web App](http://164.90.187.32/)
-
 2. **Enter the car details:** Fill in the form with the car's information, including the brand, model, mileage, year, transmission type, and power.
-
 3. **Get the price prediction:** After entering the details, the app will display an estimated price for the car.
 
 ## How it Works
@@ -36,7 +48,7 @@ The app uses a machine learning model trained on a large dataset from AutoScout2
 
 ## Access the App
 
-You can access the Car Price Prediction Web App here:  
+You can access the Car Price Prediction Web App here:
 [Car Price Prediction Web App](http://164.90.187.32/)
 
 ## Disclaimer
