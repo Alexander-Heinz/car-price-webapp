@@ -22,12 +22,6 @@ The web app was developed as a final project for the MLOps Zoomcamp.
 **It uses the model developed in this related Project (Repo):**
 > 👉 [autoscout-price-prediction (MLOps Pipeline) on GitHub](https://github.com/Alexander-Heinz/autoscout-price-prediction)  
 
-
-> **⚠️ NOTE:**
-> The web service / web app is currently **offline**.
-> I had to **pause the cloud hosting (previously on DigitalOcean)** due to ongoing costs.
-> I'm actively **looking for a free or lower-cost alternative** to resume hosting in the near future.
-
 ## Features
 
 - **Car Model:** Choose the car model.
@@ -51,7 +45,7 @@ The app uses a machine learning model trained on a large dataset from AutoScout2
 ## Technologies Used
 
 - **Frontend:** React.js
-- **Backend:** Python (Flask or FastAPI)
+- **Backend:** Python (Flask)
 - **Model:** Pre-trained car price prediction model based on tree-based machine learning methods
 - **Hosting:** DigitalOcean cloud hosting
 - **Dataset:** Large AutoScout24 dataset
